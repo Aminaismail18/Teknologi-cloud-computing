@@ -1,3 +1,3 @@
-def penambahan(a,y):
-    c = a + y
+def penambahan(a,v):
+    c = a + v
     return c
